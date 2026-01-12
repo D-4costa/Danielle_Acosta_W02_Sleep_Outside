@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "880RR",
+    "Name": "Marmot Ajax 3",
+    "Brand": "Marmot",
+    "Price": 319.99,
+    "Images": {
+      "Primary": "images/tent1.jpg"
+    },
+    "Description": "Lightweight three-season tent."
+  },
+  {
+    "Id": "985RF",
+    "Name": "North Face Talus 4",
+    "Brand": "North Face",
+    "Price": 349.99,
+    "Images": {
+      "Primary": "images/tent2.jpg"
+    },
+    "Description": "Spacious family tent."
+  }
+]
