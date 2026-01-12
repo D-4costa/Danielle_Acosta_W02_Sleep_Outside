@@ -2,6 +2,11 @@ import { resolve } from "path";
 
 export default {
   root: "src",
+  preview: {
+    allowedHosts: [
+      "danielle-acosta-w02-sleep-outside.onrender.com"
+    ]
+  },
   build: {
     outDir: "../dist",
     rollupOptions: {
